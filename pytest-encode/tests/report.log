@@ -1,0 +1,6 @@
+Fri, 19 Feb 2021 03:13:32 (filename)s[line:25] INFO item.name : test_a[哈利]
+Fri, 19 Feb 2021 03:13:32 (filename)s[line:26] INFO item._nodeid : tests/test_encode.py::test_a[哈利]
+Fri, 19 Feb 2021 03:13:32 (filename)s[line:25] INFO item.name : test_a[赫敏]
+Fri, 19 Feb 2021 03:13:32 (filename)s[line:26] INFO item._nodeid : tests/test_encode.py::test_a[赫敏]
+Fri, 19 Feb 2021 03:13:32 (filename)s[line:8] INFO 测试数据: 哈利
+Fri, 19 Feb 2021 03:13:32 (filename)s[line:8] INFO 测试数据: 赫敏
