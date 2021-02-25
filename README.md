@@ -3,6 +3,12 @@
 ### Hogwarts SDET17作业
 
 
+#### Web 企业微信实战【1作业】
+1. 使用浏览器利用及 selenium cookie 方法，进行企业微信登陆，将代码（或 github 链接）贴到帖子下面
+
+   ***文件：test_selenium\selenium_demo.py***
+--------------------------------------------------------
+
 #### pytest测试实战（二）
 1. 将上节课的作业 ，改造成fixture( conftest.py )
 
